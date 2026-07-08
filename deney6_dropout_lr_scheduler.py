@@ -1,6 +1,6 @@
 # ============================================================
 # DENEME 6: Dropout + LR Scheduler
-# Kocaeli Üniversitesi - Lisans Bitirme Projesi
+# Kocaeli Üniversitesi - Mühendislik tasarım projesi 2
 # Öğrenci: Zülal KAYA
 # ============================================================
 #
