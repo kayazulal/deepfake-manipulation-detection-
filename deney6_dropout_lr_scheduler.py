@@ -2,7 +2,6 @@
 # DENEME 6: Dropout + LR Scheduler
 # Kocaeli Üniversitesi - Lisans Bitirme Projesi
 # Öğrenci: Zülal KAYA
-# Danışman: Doç. Dr. Alp ERTÜRK
 # ============================================================
 #
 # ──────────────────────────────────────────────────────────
